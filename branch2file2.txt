@@ -1,1 +1,6 @@
-this is file stored in gitbranch2
+<html>
+ <head><title>climate</title></head>
+  <body><center>climate change</center></body>
+  <p>primarily due to the burning of fossil fuels (like coal, oil, and gas), which produces heat-trapping gases.</p>
+  <p>Climate change refers to long-term shifts in temperatures and weather patterns. These shifts may be natural, but since the 1800s, human activities have been the main driver of climate change,</p>
+</html>
